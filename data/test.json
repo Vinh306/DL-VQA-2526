@@ -1,0 +1,2102 @@
+[
+  {
+    "image_path": "data/images\\bánh_xèo\\000008.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món Bánh Xèo."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000008.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Vỏ bánh xèo trong chảo có màu gì?",
+    "answer": "Vỏ bánh xèo có màu vàng."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000008.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có mấy chiếc kẹp trong ảnh?",
+    "answer": "Có một chiếc kẹp."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000008.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Trong bánh xèo có tôm không?",
+    "answer": "Có tôm."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000008.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng nhiều nhất ở giữa là gì?",
+    "answer": "Đó là giá đỗ."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000014.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cháo lòng và quẩy."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000014.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Quẩy trong đĩa có màu gì?",
+    "answer": "Màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000014.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng ớt đỏ trên bát cháo?",
+    "answer": "Một miếng ớt đỏ."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000014.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau thơm trang trí trên cháo không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000014.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Miếng thịt màu nâu trong bát cháo là gì?",
+    "answer": "Thịt bò."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000025.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là món gì?",
+    "answer": "Món bún riêu."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000025.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Đậu phụ trong bát có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000025.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng quẩy trên đĩa?",
+    "answer": "Có 5 miếng quẩy."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000025.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000025.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu vàng dài trên đĩa tên là gì?",
+    "answer": "Quẩy."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000012.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món cơm gà."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000012.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong đĩa có màu gì?",
+    "answer": "Cơm có màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000012.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có mấy quả trứng lòng đào trên đĩa?",
+    "answer": "Có bốn quả trứng lòng đào."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000012.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có nước chấm."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000012.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Thịt xé sợi trên đĩa là thịt gì?",
+    "answer": "Là thịt gà xé."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000006.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là Cơm gà."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000006.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Phần cơm có màu gì?",
+    "answer": "Cơm có màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000006.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nhỏ trên bàn?",
+    "answer": "Có ba chén nhỏ."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000006.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Món ăn có nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000006.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Nguyên liệu rắc trên cơm là gì?",
+    "answer": "Đó là hành phi."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000022.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún gà nướng."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000022.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Thịt gà trong món ăn có màu gì?",
+    "answer": "Nâu vàng và nâu sẫm."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000022.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng thịt gà rõ ràng trong bát?",
+    "answer": "Khoảng 6 miếng."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000022.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000022.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Một loại rau thơm trong bát tên là gì?",
+    "answer": "Rau tía tô."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000026.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món cơm gà xé phay."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000026.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Phần cơm trong ảnh có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000026.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu bát nước chấm trong ảnh?",
+    "answer": "Có hai bát nước chấm."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000026.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000026.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu nâu giòn trên cơm là gì?",
+    "answer": "Hành phi."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000002.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Bức ảnh này chụp món ăn gì?",
+    "answer": "Đây là món Bún Bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000002.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Nước lèo trong bát có màu gì?",
+    "answer": "Nước lèo có màu đỏ cam."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000002.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng tiết trong bát?",
+    "answer": "Có hai miếng tiết trong bát."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000002.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có, có rau sống ăn kèm."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000002.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Miếng tròn màu trắng trong bát là gì?",
+    "answer": "Đó là chả lụa."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000017.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Món bún bò."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000017.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Nước dùng trong bát chính có màu gì?",
+    "answer": "Màu đỏ cam đậm."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000017.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu bát nhỏ ở phía sau?",
+    "answer": "Ba bát nhỏ."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000017.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Có bát ớt bột đi kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000017.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính đang được gắp lên là gì?",
+    "answer": "Sợi bún."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000035.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món gỏi cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000035.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Cà rốt trong gỏi cuốn có màu gì?",
+    "answer": "Cà rốt có màu cam."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000035.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có 3 cuốn gỏi trên đĩa."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000035.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có đi kèm nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000035.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Một nguyên liệu chính nhìn thấy rõ trong gỏi cuốn là gì?",
+    "answer": "Đó là tôm."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000007.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Phở bò."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000007.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Quả chanh trong ảnh có màu gì?",
+    "answer": "Màu xanh lá."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000007.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu bát phở trong ảnh?",
+    "answer": "Có 3 bát."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000007.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Trong ảnh có nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000007.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Món rau màu trắng dưới cùng bên trái là gì?",
+    "answer": "Giá đỗ."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000032.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món ăn gì?",
+    "answer": "Đây là món phở bò."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000032.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Miếng ớt trong bát có màu gì?",
+    "answer": "Có màu đỏ."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000032.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng thịt bò trong bát?",
+    "answer": "Có 5 miếng thịt bò."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000032.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Trong bát phở có hành lá không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000032.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Thành phần thịt chính trong món ăn là gì?",
+    "answer": "Là thịt bò."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000037.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bánh trứng chiên nhân xào."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000037.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Hành lá trên món ăn có màu gì?",
+    "answer": "Màu xanh lá."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000037.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu cái đĩa trong ảnh?",
+    "answer": "Một cái đĩa."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000037.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Món ăn có thịt băm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000037.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Thành phần màu đỏ trong nhân xào là gì?",
+    "answer": "Ớt chuông đỏ."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000011.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là cháo lòng."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000011.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Quẩy trong ảnh có màu gì?",
+    "answer": "Quẩy có màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000011.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu bát cháo lòng trong ảnh?",
+    "answer": "Có 3 bát cháo lòng."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000011.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau thơm ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000011.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Một nguyên liệu nhìn thấy trong cháo lòng là gì?",
+    "answer": "Đó là tiết."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000022.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Bún khô thập cẩm."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000022.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Rau xanh trong tô có màu gì?",
+    "answer": "Màu xanh lá."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000022.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu lát chả lụa trong tô?",
+    "answer": "Ba lát."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000022.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Có hành phi trong món ăn không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000022.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Một nguyên liệu màu trắng ngà trong tô là gì?",
+    "answer": "Giá đỗ."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000001.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000001.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Nước dùng trong bát có màu gì?",
+    "answer": "Màu đỏ cam."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000001.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chanh trong đĩa rau sống?",
+    "answer": "Ba miếng chanh."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000001.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Món ăn có kèm rau sống không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000001.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Loại rau thơm màu xanh trên mặt món ăn là gì?",
+    "answer": "Rau húng quế."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000028.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là cháo lòng ăn kèm quẩy."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000028.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Quẩy trong món ăn có màu gì?",
+    "answer": "Quẩy có màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000028.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu tô cháo trong ảnh?",
+    "answer": "Có ba (3) tô cháo."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000028.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Món cháo có rau thơm không?",
+    "answer": "Có, món cháo có rau thơm."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000028.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Thành phần màu vàng nâu trên cháo là gì?",
+    "answer": "Đó là quẩy."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000008.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món cơm tấm."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000008.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Thịt nướng có màu gì?",
+    "answer": "Màu nâu cánh gián."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000008.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Có mấy miếng thịt nướng trên đĩa?",
+    "answer": "Có hai miếng thịt nướng."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000008.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Có nước chấm ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000008.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Thành phần thịt màu nâu cánh gián là gì?",
+    "answer": "Sườn nướng."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000031.jpg",
+    "label": "lẩu Thái",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Lẩu"
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000031.jpg",
+    "label": "lẩu Thái",
+    "type": "color",
+    "question": "Bắp trong nồi lẩu có màu gì?",
+    "answer": "Màu vàng"
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000031.jpg",
+    "label": "lẩu Thái",
+    "type": "counting",
+    "question": "Trong ảnh bên trái, có bao nhiêu lát chanh?",
+    "answer": "Có hai lát"
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000031.jpg",
+    "label": "lẩu Thái",
+    "type": "yes_no",
+    "question": "Món lẩu này có tôm không?",
+    "answer": "Có"
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000031.jpg",
+    "label": "lẩu Thái",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng hình khối là gì?",
+    "answer": "Đậu phụ"
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000030.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là Bún Bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000030.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Quả cà chua trong bát có màu gì?",
+    "answer": "Màu đỏ tươi."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000030.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng cà chua lớn trong bát?",
+    "answer": "Có hai miếng."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000030.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Trong bát có rau thơm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000030.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Một nguyên liệu màu trắng được thái sợi trong bát là gì?",
+    "answer": "Hành lá."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000005.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món Phở Bò."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000005.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Hành lá trong bát có màu gì?",
+    "answer": "Màu xanh lá cây."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000005.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu bát phở trong ảnh?",
+    "answer": "Có một bát phở."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000005.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Trong bát có nước dùng không?",
+    "answer": "Có nước dùng."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000005.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Loại thịt chính trong bát là gì?",
+    "answer": "Là thịt bò."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000031.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún chả Hà Nội."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000031.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Màu của sợi bún là gì?",
+    "answer": "Màu trắng."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000031.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu bát bún chả chính trong ảnh?",
+    "answer": "Có 3 bát."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000031.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000031.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Thịt nướng trong bát gọi là gì?",
+    "answer": "Chả nướng."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000033.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món bánh cuốn."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000033.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Chả lụa trong ảnh có màu gì?",
+    "answer": "Chả lụa có màu hồng nhạt."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000033.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chả lụa?",
+    "answer": "Có 3 miếng chả lụa."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000033.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Trong ảnh có rau thơm không?",
+    "answer": "Có, có rau thơm."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000033.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Một nguyên liệu rắc lên món ăn là gì?",
+    "answer": "Đó là hành phi."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000008.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cháo lòng."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000008.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Gan trong bát có màu gì?",
+    "answer": "Màu nâu sẫm."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000008.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng gan trong bát?",
+    "answer": "Ba miếng."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000008.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có hành lá trong món ăn không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000008.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Bột màu cam rắc trên món ăn là gì?",
+    "answer": "Bột ớt."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000028.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Món ăn trong ảnh là bún bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000028.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Lát chanh trong bát có màu gì?",
+    "answer": "Màu xanh và vàng."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000028.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu tô bún trong ảnh?",
+    "answer": "Có hai tô bún."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000028.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau thơm ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000028.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu đỏ đậm trong tô là gì?",
+    "answer": "Tiết lợn."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000030.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Cháo lòng."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000030.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Hành lá trên mặt món ăn có màu gì?",
+    "answer": "Màu xanh lá cây."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000030.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu tô cháo trong ảnh?",
+    "answer": "Một tô."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000030.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Trong món ăn có ớt không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000030.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu nâu vàng trên cháo là gì?",
+    "answer": "Hành phi."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000015.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là Bún Bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000015.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Món quẩy trong ảnh có màu gì?",
+    "answer": "Màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000015.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu bát bún trong ảnh?",
+    "answer": "Có 4 bát."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000015.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Món ăn có phục vụ kèm rau sống không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000015.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Bạn nhìn thấy nguyên liệu nào màu đen trong bát bún?",
+    "answer": "Là tiết lợn."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000034.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm gà xé phay."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000034.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm có màu gì?",
+    "answer": "Cơm có màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000034.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nhỏ trên bàn?",
+    "answer": "Có hai chén nhỏ."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000034.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000034.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Miếng màu đỏ thái lát trong món ăn là gì?",
+    "answer": "Đó là ớt."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000025.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là gì?",
+    "answer": "Bánh cuốn."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000025.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Quả tắc/quất trên đĩa bánh cuốn có màu gì?",
+    "answer": "Màu xanh lá."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000025.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng bánh cuốn trên mỗi đĩa?",
+    "answer": "Ba miếng bánh cuốn."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000025.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Có rau thơm trang trí trên bát canh không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000025.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Trong bát canh có nguyên liệu gì màu vàng?",
+    "answer": "Trứng chiên."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000021.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn và gỏi tôm thịt."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000021.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Con tôm trong gỏi cuốn có màu gì?",
+    "answer": "Màu hồng cam."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000021.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cái gỏi cuốn trong ảnh?",
+    "answer": "Có sáu cái gỏi cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000021.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có nước chấm đi kèm."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000021.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Lớp topping màu vàng giòn trên gỏi là gì?",
+    "answer": "Là hành phi."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000040.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm sườn trứng ốp la."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000040.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Lòng đỏ trứng ốp la có màu gì?",
+    "answer": "Màu vàng cam."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000040.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng sườn nướng trên đĩa?",
+    "answer": "Có hai miếng."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000040.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Món ăn có kèm nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000040.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Rau thơm trang trí trên cơm là gì?",
+    "answer": "Đó là rau mùi."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000017.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Cơm gà."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000017.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Hạt cơm trong đĩa có màu gì?",
+    "answer": "Màu vàng nhạt."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000017.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng thịt lớn trên đĩa?",
+    "answer": "Khoảng bảy miếng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000017.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có rau thơm trên đĩa không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000017.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Thịt gà là một nguyên liệu chính của món ăn này phải không?",
+    "answer": "Phải."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000029.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món Bánh Ướt."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000029.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Hành phi trên món ăn có màu gì?",
+    "answer": "Hành phi có màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000029.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu đĩa trong ảnh?",
+    "answer": "Có một đĩa."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000029.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có rau mùi (ngò rí) không?",
+    "answer": "Có rau mùi."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000029.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Thành phần giòn rụm màu vàng trên món ăn là gì?",
+    "answer": "Đó là hành phi."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000031.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là gì?",
+    "answer": "Cơm gà."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000031.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000031.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu chén súp?",
+    "answer": "Hai chén."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000031.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000031.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính của món ăn là gì?",
+    "answer": "Thịt gà."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000004.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món Bánh xèo."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000004.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Món bánh xèo trong ảnh có màu gì chủ đạo?",
+    "answer": "Món bánh xèo có màu vàng."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000004.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu đôi đũa trong ảnh?",
+    "answer": "Có một đôi đũa."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000004.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Trong ảnh có rau sống ăn kèm không?",
+    "answer": "Có, có rau sống ăn kèm."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000004.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Bạn có thể nhận ra nguyên liệu nào bên trong bánh xèo?",
+    "answer": "Tôi nhận ra giá đỗ."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000007.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Bức ảnh này chụp món ăn gì?",
+    "answer": "Bánh Mì Việt Nam."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000007.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Cà rốt trong bánh mì có màu gì?",
+    "answer": "Màu cam."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000007.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu loại rau thơm trong bánh mì?",
+    "answer": "Hai loại."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000007.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Có nước sốt trong bánh mì không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000007.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng mỏng là gì?",
+    "answer": "Đó là chả lụa."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000005.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Mì hủ tiếu thịt."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000005.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Sợi mì vàng trong tô có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000005.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu loại sợi mì trong tô?",
+    "answer": "Có hai loại sợi mì."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000005.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Có hành phi trên món ăn không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000005.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Nguyên liệu thịt trong tô là gì?",
+    "answer": "Thịt heo."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000020.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món bún đậu thập cẩm."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000020.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Hành lá cắt nhỏ trong bát có màu gì?",
+    "answer": "Hành lá có màu xanh lá cây."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000020.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng đậu phụ chiên rõ trong bát chính?",
+    "answer": "Có hai miếng đậu phụ chiên."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000020.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Có bát nước chấm riêng ở bên cạnh không?",
+    "answer": "Có, có một bát nước chấm nhỏ."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000020.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính dạng sợi màu trắng trong bát là gì?",
+    "answer": "Nguyên liệu đó là bún."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000026.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn tôm."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000026.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong gỏi cuốn có màu gì?",
+    "answer": "Màu cam hồng."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000026.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi cuốn trên đĩa chính?",
+    "answer": "11 cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000026.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm món ăn không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000026.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Tên một loại rau thơm trong gỏi cuốn là gì?",
+    "answer": "Rau húng lủi."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000030.jpg",
+    "label": "mì Quảng",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món Mì Quảng."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000030.jpg",
+    "label": "mì Quảng",
+    "type": "color",
+    "question": "Nước dùng của món ăn có màu gì?",
+    "answer": "Nước dùng có màu vàng."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000030.jpg",
+    "label": "mì Quảng",
+    "type": "counting",
+    "question": "Có bao nhiêu quả trứng cút trong tô?",
+    "answer": "Có 2 quả trứng cút."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000030.jpg",
+    "label": "mì Quảng",
+    "type": "yes_no",
+    "question": "Trong ảnh có nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000030.jpg",
+    "label": "mì Quảng",
+    "type": "ingredient",
+    "question": "Hạt được rắc lên món ăn là gì?",
+    "answer": "Là đậu phộng rang."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000033.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm gà."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000033.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong ảnh có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000033.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng gà thái lát trên đĩa?",
+    "answer": "Chín miếng."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000033.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Món ăn có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000033.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Loại rau màu cam thái sợi là gì?",
+    "answer": "Cà rốt."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000004.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn tôm thịt."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000004.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong cuốn gỏi có màu gì?",
+    "answer": "Màu hồng cam."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000004.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có 9 cuốn gỏi."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000004.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có kèm rau sống không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000004.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Một nguyên liệu trong nước chấm là gì?",
+    "answer": "Cà rốt thái sợi."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000015.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm gà xé phay."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000015.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Phần tương ớt có màu gì?",
+    "answer": "Màu đỏ."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000015.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có mấy đĩa trong ảnh?",
+    "answer": "Một đĩa."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000015.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Món ăn có rau thơm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000015.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Thịt xé sợi trong món ăn là thịt gì?",
+    "answer": "Thịt gà."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000027.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bánh mì."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000027.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Chiếc bánh mì dài ở phía trước có màu gì?",
+    "answer": "Màu cam hồng."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000027.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu chiếc bánh mì trong ảnh?",
+    "answer": "Ba chiếc."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000027.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Trên bánh mì có các đốm đen không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000027.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu đen trên bề mặt bánh mì là gì?",
+    "answer": "Hạt mè."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000038.jpg",
+    "label": "bánh canh",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún cá."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000038.jpg",
+    "label": "bánh canh",
+    "type": "color",
+    "question": "Rau sống ăn kèm có màu gì?",
+    "answer": "Màu xanh lá."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000038.jpg",
+    "label": "bánh canh",
+    "type": "counting",
+    "question": "Có bao nhiêu tô bún cá trong ảnh?",
+    "answer": "Hai tô."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000038.jpg",
+    "label": "bánh canh",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000038.jpg",
+    "label": "bánh canh",
+    "type": "ingredient",
+    "question": "Món ăn này có nguyên liệu chính là gì?",
+    "answer": "Cá."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000039.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000039.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong cuốn gỏi có màu gì?",
+    "answer": "Màu cam."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000039.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trong ảnh?",
+    "answer": "Có 12 cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000039.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000039.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Một nguyên liệu chính của món ăn này là gì?",
+    "answer": "Tôm."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000024.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là gỏi cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000024.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Màu sắc của tôm trong gỏi cuốn là gì?",
+    "answer": "Màu cam hồng."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000024.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có 5 cuốn."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000024.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Trong ảnh có nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000024.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Một trong các nguyên liệu chính của món ăn này là gì?",
+    "answer": "Tôm luộc."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000016.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Bún bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000016.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Những quả ớt tươi trên bàn có màu gì?",
+    "answer": "Đỏ, xanh lá và vàng."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000016.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu quả ớt tươi trên bàn?",
+    "answer": "Có 4 quả ớt tươi."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000016.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000016.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Thành phần thịt chính trong bát là gì?",
+    "answer": "Thịt bò."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000030.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bánh mì Việt Nam."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000030.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Vỏ bánh mì có màu gì?",
+    "answer": "Màu vàng nhạt."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000030.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu cái bánh mì trong ảnh?",
+    "answer": "Có 6 cái bánh mì."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000030.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Có rau thơm trong bánh mì không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000030.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Thành phần màu nâu sẫm trong bánh là gì?",
+    "answer": "Pate."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000032.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bánh mì Việt Nam."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000032.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Bánh mì có màu gì?",
+    "answer": "Bánh mì có màu vàng nâu."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000032.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu chiếc bánh mì trong rổ?",
+    "answer": "Có ba chiếc bánh mì."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000032.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Có rổ tre không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000032.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Cái rổ được làm từ nguyên liệu gì?",
+    "answer": "Rổ làm từ tre."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000033.jpg",
+    "label": "mì Quảng",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là gì?",
+    "answer": "Mì Quảng."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000033.jpg",
+    "label": "mì Quảng",
+    "type": "color",
+    "question": "Sợi mì trong tô chính có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000033.jpg",
+    "label": "mì Quảng",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chanh được cắt ra?",
+    "answer": "Có 4 miếng chanh."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000033.jpg",
+    "label": "mì Quảng",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000033.jpg",
+    "label": "mì Quảng",
+    "type": "ingredient",
+    "question": "Hạt nhỏ màu nâu rắc trên tô mì là gì?",
+    "answer": "Đậu phộng rang."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000010.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Bún thập cẩm."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000010.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Quẩy trong bát có màu gì?",
+    "answer": "Màu vàng."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000010.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu bát bún chính trong ảnh?",
+    "answer": "Ba bát."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000010.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Trong bát có rau sống không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000010.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu nâu sẫm hình khối trong bát là gì?",
+    "answer": "Huyết."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000039.jpg",
+    "label": "lẩu Thái",
+    "type": "recognition",
+    "question": "Các nguyên liệu trong ảnh thường dùng làm món gì?",
+    "answer": "Lẩu."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000039.jpg",
+    "label": "lẩu Thái",
+    "type": "color",
+    "question": "Cà rốt trong đĩa rau lẩu có màu gì?",
+    "answer": "Màu cam."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000039.jpg",
+    "label": "lẩu Thái",
+    "type": "counting",
+    "question": "Có bao nhiêu lát cà rốt trong đĩa rau lẩu?",
+    "answer": "Bốn lát."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000039.jpg",
+    "label": "lẩu Thái",
+    "type": "yes_no",
+    "question": "Có rau xanh ăn kèm lẩu không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000039.jpg",
+    "label": "lẩu Thái",
+    "type": "ingredient",
+    "question": "Nguyên liệu có màu xanh ở càng là gì?",
+    "answer": "Tôm càng xanh."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000023.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh là món gì?",
+    "answer": "Đây là Bún bò Huế."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000023.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Miếng tiết lợn trong bát có màu gì?",
+    "answer": "Màu nâu sẫm."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000023.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu vật đựng thức ăn xuất hiện trong ảnh?",
+    "answer": "Có ba vật đựng thức ăn."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000023.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000023.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Miếng màu nâu sẫm hình chữ nhật trong bát là nguyên liệu gì?",
+    "answer": "Là tiết lợn."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000023.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm sườn nướng."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000023.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Miếng cà chua trên đĩa có màu gì?",
+    "answer": "Màu đỏ."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000023.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Có bao nhiêu lát dưa chuột trên đĩa?",
+    "answer": "Có bốn lát."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000023.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Món ăn có kèm nước chấm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000023.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Loại rau màu xanh rắc trên cơm là gì?",
+    "answer": "Hành lá."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000029.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn tôm."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000029.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong cuốn có màu gì?",
+    "answer": "Màu hồng cam."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000029.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu đĩa gỏi cuốn trong ảnh?",
+    "answer": "Ba đĩa."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000029.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000029.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính màu hồng cam trong cuốn là gì?",
+    "answer": "Tôm."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000011.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún chả."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000011.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Ớt trong đĩa có màu gì?",
+    "answer": "Màu đỏ."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000011.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chả trong bát?",
+    "answer": "Có 9 miếng chả."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000011.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000011.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng bên cạnh là gì?",
+    "answer": "Là bún."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000002.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là gì?",
+    "answer": "Đây là món Bún Gà."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000002.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Củ cà rốt trong tô có màu gì?",
+    "answer": "Màu cam."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000002.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chanh trong chén nhỏ?",
+    "answer": "Có bốn miếng."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000002.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Trong chén nhỏ có ớt tươi không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000002.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Nguyên liệu dạng sợi màu trắng trong tô là gì?",
+    "answer": "Là bún tươi."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000025.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bánh mì."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000025.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Nước sốt trong tô có màu gì?",
+    "answer": "Nước sốt có màu vàng."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000025.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu lát dưa chuột trong bánh mì?",
+    "answer": "Có 4 lát dưa chuột."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000025.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Có rau thơm trong bánh mì không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000025.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Lớp phết màu nâu trong bánh mì là gì?",
+    "answer": "Đó là pa-tê."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000035.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món Bún gà."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000035.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Nước dùng trong tô có màu gì?",
+    "answer": "Màu vàng cam nhạt."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000035.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Có bao nhiêu lát chanh trên đĩa?",
+    "answer": "Ba lát chanh."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000035.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000035.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Một trong các nguyên liệu chính trong tô là gì?",
+    "answer": "Thịt gà và huyết."
+  }
+]

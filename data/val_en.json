@@ -1,0 +1,2702 @@
+[
+  {
+    "image_path": "data/images\\bánh_xèo\\000036.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bánh xèo.",
+    "question_en": "What is this?",
+    "answer_en": "This is banh xeo."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000036.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Nước chấm có màu gì?",
+    "answer": "Màu cam.",
+    "question_en": "What color is the dipping sauce?",
+    "answer_en": "Orange."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000036.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nước chấm?",
+    "answer": "Có hai chén.",
+    "question_en": "How many cups of dipping sauce are there?",
+    "answer_en": "There are two cups."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000036.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000036.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng trên đĩa bánh xèo là gì?",
+    "answer": "Là giá đỗ.",
+    "question_en": "What is the white ingredient on the plate of banh xeo?",
+    "answer_en": "It's bean sprouts."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000038.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Đây là bánh xèo cuốn rau sống.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "This is banh xeo rolled with raw vegetables."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000038.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Miếng cà rốt trong món ăn có màu gì?",
+    "answer": "Miếng cà rốt có màu cam.",
+    "question_en": "What color is the carrot piece in the dish?",
+    "answer_en": "Carrot pieces are orange."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000038.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng dưa chuột được cuốn trong món ăn?",
+    "answer": "Có hai miếng dưa chuột.",
+    "question_en": "How many cucumber pieces are rolled in the dish?",
+    "answer_en": "There are two pieces of cucumber."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000038.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Có rau xà lách trong món ăn không?",
+    "answer": "Có rau xà lách.",
+    "question_en": "Is there lettuce in the dish?",
+    "answer_en": "There is lettuce."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000038.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Loại lá màu tím trong cuốn là gì?",
+    "answer": "Đó là lá tía tô.",
+    "question_en": "What kind of purple leaves are in the roll?",
+    "answer_en": "That's perilla leaves."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000005.jpg",
+    "label": "lẩu Thái",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món lẩu hải sản.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is a seafood hotpot."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000005.jpg",
+    "label": "lẩu Thái",
+    "type": "color",
+    "question": "Tôm trong nồi lẩu có màu gì?",
+    "answer": "Tôm có màu cam đỏ.",
+    "question_en": "What color is the shrimp in the hot pot?",
+    "answer_en": "Shrimp has a red orange color."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000005.jpg",
+    "label": "lẩu Thái",
+    "type": "counting",
+    "question": "Có khoảng bao nhiêu miếng thịt bò trong nồi lẩu?",
+    "answer": "Khoảng 6 miếng thịt bò.",
+    "question_en": "How many pieces of beef are in the hot pot?",
+    "answer_en": "About 6 pieces of beef."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000005.jpg",
+    "label": "lẩu Thái",
+    "type": "yes_no",
+    "question": "Trong nồi lẩu có rau xanh không?",
+    "answer": "Có.",
+    "question_en": "Are there green vegetables in the hot pot?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000005.jpg",
+    "label": "lẩu Thái",
+    "type": "ingredient",
+    "question": "Loại hải sản nào khác ngoài tôm có trong lẩu?",
+    "answer": "Có mực và nghêu.",
+    "question_en": "What kind of seafood other than shrimp is in hot pot?",
+    "answer_en": "There are squid and clams."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000026.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là tô bánh canh.",
+    "question_en": "What is this?",
+    "answer_en": "This is a bowl of banh canh."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000026.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Con tôm trong tô có màu gì?",
+    "answer": "Con tôm có màu cam.",
+    "question_en": "What color is the shrimp in the bowl?",
+    "answer_en": "The shrimp is orange."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000026.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu con tôm trong tô?",
+    "answer": "Có hai con tôm.",
+    "question_en": "How many shrimp are in the bowl?",
+    "answer_en": "There are two shrimp."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000026.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Có rắc tiêu lên trên món ăn không?",
+    "answer": "Có.",
+    "question_en": "Do you sprinkle pepper on top of the dish?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000026.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Miếng to hình bầu dục trong tô là gì?",
+    "answer": "Đó là chả lụa.",
+    "question_en": "What is the big oval piece in the bowl?",
+    "answer_en": "That's pork roll."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000040.jpg",
+    "label": "bánh canh",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là bún cá chiên.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is fried fish noodle soup."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000040.jpg",
+    "label": "bánh canh",
+    "type": "color",
+    "question": "Miếng cá chiên có màu gì?",
+    "answer": "Có màu vàng cam.",
+    "question_en": "What color is the fried fish?",
+    "answer_en": "Has a yellow-orange color."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000040.jpg",
+    "label": "bánh canh",
+    "type": "counting",
+    "question": "Có bao nhiêu lát ớt đỏ trong ảnh?",
+    "answer": "Có 3 lát ớt đỏ.",
+    "question_en": "How many slices of red pepper are there in the photo?",
+    "answer_en": "There are 3 slices of red pepper."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000040.jpg",
+    "label": "bánh canh",
+    "type": "yes_no",
+    "question": "Có hành lá rắc trên món ăn không?",
+    "answer": "Có.",
+    "question_en": "Are there green onions sprinkled on the dish?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000040.jpg",
+    "label": "bánh canh",
+    "type": "ingredient",
+    "question": "Sợi màu trắng trong bát là nguyên liệu gì?",
+    "answer": "Là bún.",
+    "question_en": "What material is the white thread in the bowl?",
+    "answer_en": "It's noodles."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000013.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Cơm gà xé phay.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "Shredded chicken rice."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000013.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Phần cơm có màu gì?",
+    "answer": "Màu vàng.",
+    "question_en": "What color is the rice?",
+    "answer_en": "Yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000013.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu quả tắc nguyên vẹn?",
+    "answer": "Sáu quả.",
+    "question_en": "How many intact kumquats are there?",
+    "answer_en": "Six results."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000013.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Món ăn có đi kèm nước chấm không?",
+    "answer": "Có.",
+    "question_en": "Does the dish come with dipping sauce?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000013.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính của món gỏi là gì?",
+    "answer": "Thịt gà.",
+    "question_en": "What is the main ingredient of the salad?",
+    "answer_en": "Chicken."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000036.jpg",
+    "label": "bánh canh",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món bánh canh.",
+    "question_en": "What is this?",
+    "answer_en": "This is noodle soup."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000036.jpg",
+    "label": "bánh canh",
+    "type": "color",
+    "question": "Nước chấm có màu gì?",
+    "answer": "Nước chấm có màu xanh lá.",
+    "question_en": "What color is the dipping sauce?",
+    "answer_en": "The dipping sauce is green."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000036.jpg",
+    "label": "bánh canh",
+    "type": "counting",
+    "question": "Có bao nhiêu tô bánh canh trong ảnh?",
+    "answer": "Có hai tô bánh canh.",
+    "question_en": "How many bowls of banh canh are there in the photo?",
+    "answer_en": "There are two bowls of banh canh."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000036.jpg",
+    "label": "bánh canh",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000036.jpg",
+    "label": "bánh canh",
+    "type": "ingredient",
+    "question": "Sợi trong tô bánh canh là gì?",
+    "answer": "Là sợi bánh canh.",
+    "question_en": "What is the fiber in the bowl of banh canh?",
+    "answer_en": "It's noodles."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000029.jpg",
+    "label": "lẩu Thái",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh là gì?",
+    "answer": "Nguyên liệu cho món lẩu chay.",
+    "question_en": "What is the dish in the photo?",
+    "answer_en": "Ingredients for vegetarian hot pot."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000029.jpg",
+    "label": "lẩu Thái",
+    "type": "color",
+    "question": "Ớt trên đĩa nấm có màu gì?",
+    "answer": "Màu đỏ.",
+    "question_en": "What color is the chili on the mushroom plate?",
+    "answer_en": "Red."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000029.jpg",
+    "label": "lẩu Thái",
+    "type": "counting",
+    "question": "Có bao nhiêu lát cà chua trên đĩa rau?",
+    "answer": "Ba lát.",
+    "question_en": "How many tomato slices are on the vegetable plate?",
+    "answer_en": "Three slices."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000029.jpg",
+    "label": "lẩu Thái",
+    "type": "yes_no",
+    "question": "Có đậu phụ trong ảnh không?",
+    "answer": "Có.",
+    "question_en": "Is there tofu in the photo?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000029.jpg",
+    "label": "lẩu Thái",
+    "type": "ingredient",
+    "question": "Một loại nấm màu trắng sợi dài tên là gì?",
+    "answer": "Nấm kim châm.",
+    "question_en": "What is the name of a long white mushroom?",
+    "answer_en": "Enoki mushrooms."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000002.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bánh cuốn tôm.",
+    "question_en": "What is this?",
+    "answer_en": "These are shrimp rolls."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000002.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Tôm trong bánh có màu gì?",
+    "answer": "Tôm có màu hồng cam.",
+    "question_en": "What color is the shrimp in the cake?",
+    "answer_en": "Shrimp is orange-pink in color."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000002.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng bánh trong đĩa?",
+    "answer": "Có 3 miếng bánh.",
+    "question_en": "How many pieces of cake are in the plate?",
+    "answer_en": "There are 3 pieces of cake."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000002.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có đi kèm nước chấm không?",
+    "answer": "Có nước chấm.",
+    "question_en": "Does the dish come with dipping sauce?",
+    "answer_en": "There is dipping sauce."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000002.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu đỏ rắc trên bánh là gì?",
+    "answer": "Đó là ớt tươi thái lát.",
+    "question_en": "What is the red ingredient sprinkled on the cake?",
+    "answer_en": "It's sliced ​​fresh chili."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000039.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Phở Bò.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "Beef Pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000039.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Những lát ớt có màu gì?",
+    "answer": "Màu xanh lá.",
+    "question_en": "What color are the chili slices?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000039.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu lát ớt trong bát?",
+    "answer": "Có 4 lát ớt.",
+    "question_en": "How many chili slices are in the bowl?",
+    "answer_en": "There are 4 slices of chili."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000039.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Trong bát có rau thơm không?",
+    "answer": "Có.",
+    "question_en": "Are there herbs in the bowl?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000039.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Một nguyên liệu nhìn thấy trong bát là gì?",
+    "answer": "Thịt bò.",
+    "question_en": "What is an ingredient seen in the bowl?",
+    "answer_en": "Beef."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000017.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là phở bò.",
+    "question_en": "What is this?",
+    "answer_en": "This is beef pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000017.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Nước chấm ớt có màu gì?",
+    "answer": "Nước chấm ớt có màu đỏ.",
+    "question_en": "What color is the chili sauce?",
+    "answer_en": "Chili dipping sauce is red."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000017.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nước chấm nhỏ?",
+    "answer": "Có ba chén nước chấm nhỏ.",
+    "question_en": "How many small cups of dipping sauce are there?",
+    "answer_en": "There are three small cups of dipping sauce."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000017.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có, có rau sống ăn kèm.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Yes, there are raw vegetables served with it."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000017.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Một trong các loại rau ăn kèm là gì?",
+    "answer": "Đó là giá đỗ.",
+    "question_en": "What is one of the side vegetables?",
+    "answer_en": "That's bean sprouts."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000001.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là lẩu riêu cua.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is crab hot pot."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000001.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Cà chua trong ảnh có màu gì?",
+    "answer": "Màu đỏ tươi.",
+    "question_en": "What color are the tomatoes in the photo?",
+    "answer_en": "Bright red."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000001.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Có bao nhiêu chiếc đũa trong ảnh?",
+    "answer": "Hai chiếc.",
+    "question_en": "How many chopsticks are there in the photo?",
+    "answer_en": "Two pcs."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000001.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Có rau thơm trong nồi lẩu không?",
+    "answer": "Có.",
+    "question_en": "Are there herbs in the hot pot?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000001.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Một nguyên liệu hình khối màu trắng vàng là gì?",
+    "answer": "Đậu phụ chiên.",
+    "question_en": "What is a yellow-white cube material?",
+    "answer_en": "Fried tofu."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000024.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "recognition",
+    "question": "Bức ảnh này chụp món ăn gì?",
+    "answer": "Đây là bánh mì.",
+    "question_en": "What dish is this photo of?",
+    "answer_en": "This is bread."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000024.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "color",
+    "question": "Vỏ bánh mì có màu gì?",
+    "answer": "Vỏ bánh mì có màu vàng nâu.",
+    "question_en": "What color is the bread crust?",
+    "answer_en": "The bread crust is golden brown."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000024.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "counting",
+    "question": "Có bao nhiêu chiếc bánh mì trong khay?",
+    "answer": "Có 8 chiếc bánh mì.",
+    "question_en": "How many sandwiches are there in the tray?",
+    "answer_en": "There are 8 sandwiches."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000024.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "yes_no",
+    "question": "Có rau sống trong ảnh không?",
+    "answer": "Có.",
+    "question_en": "Are there raw vegetables in the photo?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_mì_Việt_Nam\\000024.jpg",
+    "label": "bánh mì Việt Nam",
+    "type": "ingredient",
+    "question": "Thành phần màu xanh trong bát là gì?",
+    "answer": "Là rau xà lách.",
+    "question_en": "What is the green ingredient in the bowl?",
+    "answer_en": "It's lettuce."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000027.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món cháo lòng.",
+    "question_en": "What is this?",
+    "answer_en": "Porridge dish."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000027.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Rau sống có màu gì?",
+    "answer": "Màu xanh lá cây.",
+    "question_en": "What color are raw vegetables?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000027.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu cái bát trong ảnh?",
+    "answer": "Ba cái bát.",
+    "question_en": "How many bowls are there in the photo?",
+    "answer_en": "Three bowls."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000027.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có nước chấm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000027.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Một nguyên liệu trên đĩa là gì?",
+    "answer": "Lòng lợn.",
+    "question_en": "What is an ingredient on a plate?",
+    "answer_en": "Pig intestines."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000032.jpg",
+    "label": "lẩu Thái",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Lẩu hải sản.",
+    "question_en": "What is this?",
+    "answer_en": "Seafood hot pot."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000032.jpg",
+    "label": "lẩu Thái",
+    "type": "color",
+    "question": "Nước lẩu trong nồi có màu gì?",
+    "answer": "Màu đỏ cam và trắng.",
+    "question_en": "What color is the hot pot water in the pot?",
+    "answer_en": "Orange red and white."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000032.jpg",
+    "label": "lẩu Thái",
+    "type": "counting",
+    "question": "Có bao nhiêu xiên tôm?",
+    "answer": "Hai xiên.",
+    "question_en": "How many shrimp skewers are there?",
+    "answer_en": "Two skewers."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000032.jpg",
+    "label": "lẩu Thái",
+    "type": "yes_no",
+    "question": "Có rau xanh ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any green vegetables to eat?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\lẩu_Thái\\000032.jpg",
+    "label": "lẩu Thái",
+    "type": "ingredient",
+    "question": "Nguyên liệu thịt màu đỏ tươi này là gì?",
+    "answer": "Thịt bò thái lát.",
+    "question_en": "What is this bright red meat material?",
+    "answer_en": "Sliced ​​beef."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000013.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Là món Bún Chả.",
+    "question_en": "What is this?",
+    "answer_en": "It's Bun Cha."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000013.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Món bún có màu gì?",
+    "answer": "Màu trắng.",
+    "question_en": "What color is the noodle dish?",
+    "answer_en": "White."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000013.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu đĩa/bát chính trong ảnh?",
+    "answer": "Có 3 cái.",
+    "question_en": "How many main plates/bowls are there in the photo?",
+    "answer_en": "There are 3 of them."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000013.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Món ăn có rau sống không?",
+    "answer": "Có.",
+    "question_en": "Does the dish contain raw vegetables?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000013.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Thứ màu cam trong bát nước chấm là gì?",
+    "answer": "Là cà rốt.",
+    "question_en": "What is the orange stuff in the bowl of dipping sauce?",
+    "answer_en": "It's carrots."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000021.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún chả.",
+    "question_en": "What is this?",
+    "answer_en": "Bun Cha."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000021.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Miếng ớt trong bát nước chấm có màu gì?",
+    "answer": "Màu đỏ.",
+    "question_en": "What color are the chili pieces in the bowl of dipping sauce?",
+    "answer_en": "Red."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000021.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng ớt nổi trên mặt nước chấm?",
+    "answer": "Bốn miếng.",
+    "question_en": "How many pieces of chili are floating on the top of the dipping sauce?",
+    "answer_en": "Four pieces."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000021.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Có bún (miến) trong ảnh không?",
+    "answer": "Có.",
+    "question_en": "Is there vermicelli in the photo?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000021.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Một nguyên liệu chính trong bát nước chấm là gì?",
+    "answer": "Tỏi băm.",
+    "question_en": "What is a main ingredient in a bowl of dipping sauce?",
+    "answer_en": "Minced garlic."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000031.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Đây là phở bò.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "This is beef pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000031.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Miếng ớt xanh cắt lát có màu gì?",
+    "answer": "Màu xanh lá cây.",
+    "question_en": "What color is sliced ​​green chili?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000031.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nhỏ đựng gia vị đi kèm?",
+    "answer": "Có ba chén nhỏ.",
+    "question_en": "How many small bowls of spices are included?",
+    "answer_en": "There are three small cups."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000031.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Trong ảnh có thấy giá đỗ không?",
+    "answer": "Có giá đỗ.",
+    "question_en": "Do you see bean sprouts in the photo?",
+    "answer_en": "There are bean sprouts."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000031.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Thịt thái lát trong bát phở là loại thịt gì?",
+    "answer": "Là thịt bò.",
+    "question_en": "What kind of meat is sliced ​​in a bowl of pho?",
+    "answer_en": "It's beef."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000033.jpg",
+    "label": "bún bò Huế",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là Bún Bò Huế.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is Bun Bo Hue."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000033.jpg",
+    "label": "bún bò Huế",
+    "type": "color",
+    "question": "Miếng chanh trong bát có màu gì?",
+    "answer": "Miếng chanh có màu xanh lá cây.",
+    "question_en": "What color is the lemon slice in the bowl?",
+    "answer_en": "The lemon slice is green."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000033.jpg",
+    "label": "bún bò Huế",
+    "type": "counting",
+    "question": "Trong bát có bao nhiêu miếng huyết?",
+    "answer": "Có hai miếng huyết.",
+    "question_en": "How many pieces of blood are in the bowl?",
+    "answer_en": "There are two pieces of blood."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000033.jpg",
+    "label": "bún bò Huế",
+    "type": "yes_no",
+    "question": "Món ăn có ớt lát không?",
+    "answer": "Có.",
+    "question_en": "Does the dish have chili slices?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_bò_Huế\\000033.jpg",
+    "label": "bún bò Huế",
+    "type": "ingredient",
+    "question": "Một nguyên liệu màu đỏ đậm trong bát là gì?",
+    "answer": "Đó là huyết (tiết lợn).",
+    "question_en": "What is a dark red ingredient in a bowl?",
+    "answer_en": "It is blood (pig blood)."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000026.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bánh xèo.",
+    "question_en": "What is this?",
+    "answer_en": "Pancakes."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000026.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Vỏ bánh xèo có màu gì?",
+    "answer": "Màu vàng.",
+    "question_en": "What color is the pancake crust?",
+    "answer_en": "Yellow."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000026.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu con tôm rõ trong bánh?",
+    "answer": "Có 4 con tôm.",
+    "question_en": "How many shrimp are there in the cake?",
+    "answer_en": "There are 4 shrimp."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000026.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000026.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng bên trong bánh là gì?",
+    "answer": "Giá đỗ.",
+    "question_en": "What is the white ingredient inside the cake?",
+    "answer_en": "Bean sprouts."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000005.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món thịt luộc tôm cuốn.",
+    "question_en": "What is this?",
+    "answer_en": "Boiled meat and shrimp rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000005.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong ảnh có màu gì?",
+    "answer": "Màu đỏ cam.",
+    "question_en": "What color is the shrimp in the photo?",
+    "answer_en": "Orange red color."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000005.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu con tôm nguyên vẹn?",
+    "answer": "Có 3 con tôm.",
+    "question_en": "How many whole shrimp are there?",
+    "answer_en": "There are 3 shrimp."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000005.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm trong món ăn không?",
+    "answer": "Có nước chấm.",
+    "question_en": "Is there any dipping sauce in the dish?",
+    "answer_en": "There is dipping sauce."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000005.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Thịt trong món ăn này là thịt gì?",
+    "answer": "Thịt heo luộc.",
+    "question_en": "What is the meat in this dish?",
+    "answer_en": "Boiled pork."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000019.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Bún thịt luộc.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "Boiled meat noodles."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000019.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Quả chanh trong ảnh có màu gì?",
+    "answer": "Màu xanh lá.",
+    "question_en": "What color is the lemon in the photo?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000019.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chanh trên đĩa?",
+    "answer": "Có một miếng chanh.",
+    "question_en": "How many pieces of lemon are on the plate?",
+    "answer_en": "There is a piece of lemon."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000019.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Có rau sống đi kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000019.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Lớp topping màu vàng trên tô bún là gì?",
+    "answer": "Là hành phi.",
+    "question_en": "What is the yellow topping on a bowl of vermicelli?",
+    "answer_en": "It's an action."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000018.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món cơm gà xé phay.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is shredded chicken rice dish."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000018.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong mâm có màu gì?",
+    "answer": "Cơm có màu vàng.",
+    "question_en": "What color is the rice in the tray?",
+    "answer_en": "Rice is yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000018.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu chén trên mâm?",
+    "answer": "Có hai chén.",
+    "question_en": "How many cups are there on the tray?",
+    "answer_en": "There are two cups."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000018.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Món ăn này có kèm theo nước chấm không?",
+    "answer": "Có kèm nước chấm.",
+    "question_en": "Does this dish come with dipping sauce?",
+    "answer_en": "Comes with dipping sauce."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000018.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Nguyên liệu rắc trên cơm là gì?",
+    "answer": "Là hành phi.",
+    "question_en": "What are the ingredients sprinkled on rice?",
+    "answer_en": "It's an action."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000020.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món gỏi cuốn.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is spring rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000020.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Ớt trên đĩa có màu gì?",
+    "answer": "Màu đỏ tươi.",
+    "question_en": "What color is the chili on the plate?",
+    "answer_en": "Bright red."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000020.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa hình chữ nhật?",
+    "answer": "Có 6 cuốn gỏi.",
+    "question_en": "How many spring rolls are there on a rectangular plate?",
+    "answer_en": "There are 6 salad rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000020.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000020.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Một trong những nguyên liệu chính trong cuốn gỏi là gì?",
+    "answer": "Tôm.",
+    "question_en": "What is one of the main ingredients in the salad?",
+    "answer_en": "Shrimp."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000020.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món mì tôm hải sản.",
+    "question_en": "What is this?",
+    "answer_en": "This is a seafood noodle dish."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000020.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Lòng đỏ trứng có màu gì?",
+    "answer": "Lòng đỏ trứng có màu cam.",
+    "question_en": "What color is egg yolk?",
+    "answer_en": "Egg yolks are orange."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000020.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Trong bát có bao nhiêu con tôm?",
+    "answer": "Trong bát có ba con tôm.",
+    "question_en": "How many shrimp are in the bowl?",
+    "answer_en": "In the bowl there are three shrimp."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000020.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Món ăn có nước dùng không?",
+    "answer": "Có.",
+    "question_en": "Does the dish have broth?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000020.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu xanh thái nhỏ trong bát là gì?",
+    "answer": "Đó là hành lá.",
+    "question_en": "What are the chopped green ingredients in the bowl?",
+    "answer_en": "That's green onions."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000025.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món ăn gì?",
+    "answer": "Thịt đang chiên.",
+    "question_en": "What dish is this?",
+    "answer_en": "The meat is frying."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000025.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Màu sắc của miếng thịt đang chiên là gì?",
+    "answer": "Vàng nâu.",
+    "question_en": "What is the color of the meat being fried?",
+    "answer_en": "Golden brown."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000025.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu cái muỗng trong nồi?",
+    "answer": "Một cái.",
+    "question_en": "How many spoons are in the pot?",
+    "answer_en": "One."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000025.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau sống đi kèm trong ảnh không?",
+    "answer": "Không có.",
+    "question_en": "Are there raw vegetables included in the photo?",
+    "answer_en": "Do not have."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000025.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Chất lỏng đang sôi trong nồi là gì?",
+    "answer": "Dầu ăn.",
+    "question_en": "What is the boiling liquid in the pot?",
+    "answer_en": "Oil."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000015.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món Cơm Tấm.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is Com Tam dish."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000015.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Lòng đỏ trứng ốp la có màu gì?",
+    "answer": "Lòng đỏ trứng ốp la có màu vàng cam.",
+    "question_en": "What color is the egg yolk?",
+    "answer_en": "The egg yolk is orange-yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000015.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Trong đĩa cơm có bao nhiêu miếng chả trứng?",
+    "answer": "Có một miếng chả trứng.",
+    "question_en": "How many egg rolls are in a plate of rice?",
+    "answer_en": "There's an egg patty."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000015.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Món ăn này có canh ăn kèm không?",
+    "answer": "Có canh ăn kèm.",
+    "question_en": "Does this dish come with soup?",
+    "answer_en": "Comes with soup."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000015.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng sợi bên cạnh trứng là gì?",
+    "answer": "Đó là bì heo.",
+    "question_en": "What is the fibrous white material next to the egg?",
+    "answer_en": "It's pork rinds."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000036.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Canh mọc.",
+    "question_en": "What is this?",
+    "answer_en": "Rising soup."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000036.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Cà rốt trong bát có màu gì?",
+    "answer": "Màu cam.",
+    "question_en": "What color are the carrots in the bowl?",
+    "answer_en": "Orange."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000036.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng cà rốt hình hoa?",
+    "answer": "Hai miếng.",
+    "question_en": "How many flower-shaped carrot pieces are there?",
+    "answer_en": "Two pieces."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000036.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Món ăn có nước dùng không?",
+    "answer": "Có.",
+    "question_en": "Does the dish have broth?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000036.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Một nguyên liệu chính trong món ăn là gì?",
+    "answer": "Thịt viên.",
+    "question_en": "What is a main ingredient in a dish?",
+    "answer_en": "Meatball."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000008.jpg",
+    "label": "hủ tiếu",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bún khô/hủ tiếu trộn hải sản và thịt.",
+    "question_en": "What is this?",
+    "answer_en": "Dry vermicelli/noodle soup mixed with seafood and meat."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000008.jpg",
+    "label": "hủ tiếu",
+    "type": "color",
+    "question": "Cà rốt trong món ăn có màu gì?",
+    "answer": "Màu cam.",
+    "question_en": "What color are the carrots in the dish?",
+    "answer_en": "Orange."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000008.jpg",
+    "label": "hủ tiếu",
+    "type": "counting",
+    "question": "Có bao nhiêu tô lớn món ăn chính trong ảnh?",
+    "answer": "Có 3 tô lớn.",
+    "question_en": "How many large bowls of main dishes are there in the photo?",
+    "answer_en": "There are 3 large bowls."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000008.jpg",
+    "label": "hủ tiếu",
+    "type": "yes_no",
+    "question": "Trong các tô món chính có tôm không?",
+    "answer": "Có tôm.",
+    "question_en": "Are there shrimp in the main dish bowls?",
+    "answer_en": "There are shrimp."
+  },
+  {
+    "image_path": "data/images\\hủ_tiếu\\000008.jpg",
+    "label": "hủ tiếu",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng, thái khoanh trong tô là gì?",
+    "answer": "Là mực tươi.",
+    "question_en": "What are the white, sliced ​​ingredients in the bowl?",
+    "answer_en": "It's fresh squid."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000022.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món lòng dồi luộc.",
+    "question_en": "What is this?",
+    "answer_en": "Boiled sausage dish."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000022.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Màu của rau thơm trên đĩa là gì?",
+    "answer": "Màu xanh lá cây.",
+    "question_en": "What is the color of the herbs on the plate?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000022.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có mấy loại rau thơm trên đĩa?",
+    "answer": "Hai loại.",
+    "question_en": "How many herbs are there on the plate?",
+    "answer_en": "Two types."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000022.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000022.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Rau có lá nhỏ màu xanh là rau gì?",
+    "answer": "Rau húng quế.",
+    "question_en": "What are small green leafy vegetables?",
+    "answer_en": "Basil."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000007.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là cơm tấm sườn bì chả.",
+    "question_en": "What is this?",
+    "answer_en": "This is broken rice with ribs and spring rolls."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000007.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Miếng chả trứng có màu gì?",
+    "answer": "Màu vàng.",
+    "question_en": "What color is the egg patty?",
+    "answer_en": "Yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000007.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Có mấy lát cà chua trong đĩa?",
+    "answer": "Có hai lát.",
+    "question_en": "How many tomato slices are there on the plate?",
+    "answer_en": "There are two slices."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000007.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000007.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Nguyên liệu chính màu nâu sẫm là gì?",
+    "answer": "Thịt sườn heo nướng.",
+    "question_en": "What is the main material of dark brown color?",
+    "answer_en": "Grilled pork ribs."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000036.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món cơm gà.",
+    "question_en": "What is this?",
+    "answer_en": "This is chicken rice dish."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000036.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong ảnh có màu gì?",
+    "answer": "Cơm có màu vàng.",
+    "question_en": "What color is the rice in the photo?",
+    "answer_en": "Rice is yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000036.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu quả quất trong ảnh?",
+    "answer": "Có 6 quả quất.",
+    "question_en": "How many kumquats are there in the photo?",
+    "answer_en": "There are 6 kumquats."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000036.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có nước chấm kèm theo không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000036.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Món gỏi trong ảnh làm từ nguyên liệu gì?",
+    "answer": "Món gỏi làm từ thịt gà xé và rau.",
+    "question_en": "What ingredients is the salad in the photo made from?",
+    "answer_en": "Salad made from shredded chicken and vegetables."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000032.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Bún Chả.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "Bun Cha."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000032.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Rau sống trong rổ có màu gì?",
+    "answer": "Màu xanh lá cây.",
+    "question_en": "What color are the raw vegetables in the basket?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000032.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu quả quất trong bát màu xanh lá?",
+    "answer": "Mười hai quả.",
+    "question_en": "How many kumquats are in the green bowl?",
+    "answer_en": "Twelve results."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000032.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000032.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu trắng trên đĩa là gì?",
+    "answer": "Bún tươi.",
+    "question_en": "What is the white ingredient on the plate?",
+    "answer_en": "Fresh noodles."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000027.jpg",
+    "label": "cơm tấm",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cơm tấm sườn nướng.",
+    "question_en": "What is this?",
+    "answer_en": "Grilled rib broken rice."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000027.jpg",
+    "label": "cơm tấm",
+    "type": "color",
+    "question": "Thịt sườn nướng có màu gì?",
+    "answer": "Nâu vàng.",
+    "question_en": "What color is grilled rib meat?",
+    "answer_en": "Golden brown."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000027.jpg",
+    "label": "cơm tấm",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng sườn trên đĩa phía trước?",
+    "answer": "Ba miếng.",
+    "question_en": "How many ribs are on the front plate?",
+    "answer_en": "Three pieces."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000027.jpg",
+    "label": "cơm tấm",
+    "type": "yes_no",
+    "question": "Món ăn có rau dưa ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Does the dish have pickled vegetables as an accompaniment?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_tấm\\000027.jpg",
+    "label": "cơm tấm",
+    "type": "ingredient",
+    "question": "Phần rau xanh thái nhỏ phủ trên thịt là gì?",
+    "answer": "Hành lá.",
+    "question_en": "What is the chopped green vegetable on top of the meat?",
+    "answer_en": "Spring onion."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000031.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là bún riêu cua.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is crab noodle soup."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000031.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Rau xà lách trong bát có màu gì?",
+    "answer": "Rau xà lách có màu xanh lá.",
+    "question_en": "What color is the lettuce in the bowl?",
+    "answer_en": "Lettuce is green."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000031.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng đậu phụ chiên trong bát?",
+    "answer": "Có 3 miếng đậu phụ chiên.",
+    "question_en": "How many pieces of fried tofu are in the bowl?",
+    "answer_en": "There are 3 pieces of fried tofu."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000031.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000031.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Thành phần màu vàng nhạt, hình chữ nhật trong bát là gì?",
+    "answer": "Đó là đậu phụ chiên.",
+    "question_en": "What is the pale yellow, rectangular ingredient in the bowl?",
+    "answer_en": "It's fried tofu."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000005.jpg",
+    "label": "mì Quảng",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Mì Quảng Gà.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "Quang Chicken Noodles."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000005.jpg",
+    "label": "mì Quảng",
+    "type": "color",
+    "question": "Thịt gà trong tô có màu gì?",
+    "answer": "Màu vàng.",
+    "question_en": "What color is the chicken in the bowl?",
+    "answer_en": "Yellow."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000005.jpg",
+    "label": "mì Quảng",
+    "type": "counting",
+    "question": "Có bao nhiêu quả trứng cút trong tô?",
+    "answer": "Có 3 quả.",
+    "question_en": "How many quail eggs are in the bowl?",
+    "answer_en": "There are 3 results."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000005.jpg",
+    "label": "mì Quảng",
+    "type": "yes_no",
+    "question": "Món ăn có kèm nước chấm không?",
+    "answer": "Có.",
+    "question_en": "Does the dish come with dipping sauce?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000005.jpg",
+    "label": "mì Quảng",
+    "type": "ingredient",
+    "question": "Loại hạt rắc trên món ăn là gì?",
+    "answer": "Đậu phộng.",
+    "question_en": "What kind of nuts are sprinkled on the dish?",
+    "answer_en": "Peanut."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000032.jpg",
+    "label": "bánh canh",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bún cá.",
+    "question_en": "What is this?",
+    "answer_en": "This is fish noodle soup."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000032.jpg",
+    "label": "bánh canh",
+    "type": "color",
+    "question": "Màu của rau thơm thái nhỏ là gì?",
+    "answer": "Màu xanh lá.",
+    "question_en": "What is the color of chopped herbs?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000032.jpg",
+    "label": "bánh canh",
+    "type": "counting",
+    "question": "Có bao nhiêu lát cá lớn trong bát?",
+    "answer": "Có 6 lát cá.",
+    "question_en": "How many large slices of fish are in the bowl?",
+    "answer_en": "There are 6 slices of fish."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000032.jpg",
+    "label": "bánh canh",
+    "type": "yes_no",
+    "question": "Trong món ăn có rắc tiêu đen không?",
+    "answer": "Có rắc tiêu đen.",
+    "question_en": "Is the dish sprinkled with black pepper?",
+    "answer_en": "Sprinkled with black pepper."
+  },
+  {
+    "image_path": "data/images\\bánh_canh\\000032.jpg",
+    "label": "bánh canh",
+    "type": "ingredient",
+    "question": "Tên một nguyên liệu chính dạng sợi màu trắng là gì?",
+    "answer": "Bún gạo.",
+    "question_en": "What is the name of a white fibrous main material?",
+    "answer_en": "Rice noodles."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000018.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Gỏi cuốn cá ngừ.",
+    "question_en": "What is this?",
+    "answer_en": "Tuna spring rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000018.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Nước chấm trong bát có màu gì?",
+    "answer": "Màu xanh lá.",
+    "question_en": "What color is the dipping sauce in the bowl?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000018.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trong ảnh?",
+    "answer": "Có bảy cuốn.",
+    "question_en": "How many salad rolls are there in the photo?",
+    "answer_en": "There are seven books."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000018.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000018.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Nguyên liệu màu cam trong cuốn gỏi là gì?",
+    "answer": "Cà rốt.",
+    "question_en": "What are the orange ingredients in the salad?",
+    "answer_en": "Carrot."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000003.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món phở cuốn.",
+    "question_en": "What is this?",
+    "answer_en": "This is pho roll."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000003.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Cuốn phở có màu gì?",
+    "answer": "Cuốn phở có màu trắng.",
+    "question_en": "What color are pho rolls?",
+    "answer_en": "Pho rolls are white."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000003.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn phở trong rổ?",
+    "answer": "Có 6 cuốn phở.",
+    "question_en": "How many pho rolls are in the basket?",
+    "answer_en": "There are 6 pho rolls."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000003.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm ăn kèm không?",
+    "answer": "Có nước chấm ăn kèm.",
+    "question_en": "Is there any accompanying dipping sauce?",
+    "answer_en": "Comes with dipping sauce."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000003.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Nguyên liệu cắt lát màu xanh là gì?",
+    "answer": "Đó là dưa chuột.",
+    "question_en": "What are green sliced ​​ingredients?",
+    "answer_en": "It's a cucumber."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000017.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là gỏi cuốn (nem cuốn).",
+    "question_en": "What is this?",
+    "answer_en": "This is goi cuon (spring rolls)."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000017.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong cuốn gỏi có màu gì?",
+    "answer": "Tôm có màu cam tươi.",
+    "question_en": "What color is the shrimp in the salad?",
+    "answer_en": "Shrimp has a bright orange color."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000017.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có 4 cuốn gỏi trên đĩa.",
+    "question_en": "How many spring rolls are on the plate?",
+    "answer_en": "There are 4 salad rolls on the plate."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000017.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có đi kèm nước chấm không?",
+    "answer": "Có nước chấm.",
+    "question_en": "Does the dish come with dipping sauce?",
+    "answer_en": "There is dipping sauce."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000017.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Kể tên một nguyên liệu chính có trong cuốn gỏi.",
+    "answer": "Tôm tươi.",
+    "question_en": "Name a main ingredient in the salad.",
+    "answer_en": "Fresh shrimp."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000028.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là phở gà.",
+    "question_en": "What is this?",
+    "answer_en": "This is chicken pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000028.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Ngò rí trong bát có màu gì?",
+    "answer": "Có màu xanh lá.",
+    "question_en": "What color is the coriander in the bowl?",
+    "answer_en": "Has green color."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000028.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu cái bát trong ảnh?",
+    "answer": "Có một cái.",
+    "question_en": "How many bowls are there in the photo?",
+    "answer_en": "There is one."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000028.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Món ăn này có nước dùng không?",
+    "answer": "Có.",
+    "question_en": "Does this dish have broth?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000028.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Sợi mì trắng trong bát có tên là gì?",
+    "answer": "Đây là sợi phở.",
+    "question_en": "What is the name of the white noodles in the bowl?",
+    "answer_en": "This is pho noodles."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000035.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là bún chả.",
+    "question_en": "What is this?",
+    "answer_en": "This is bun cha."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000035.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Nước chấm trong bát có màu gì?",
+    "answer": "Nước chấm có màu nâu cánh gián.",
+    "question_en": "What color is the dipping sauce in the bowl?",
+    "answer_en": "The dipping sauce is cockroach brown in color."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000035.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu bát bún chả trong ảnh?",
+    "answer": "Có 4 bát bún chả.",
+    "question_en": "How many bowls of bun cha are there in the photo?",
+    "answer_en": "There are 4 bowls of bun cha."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000035.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Có nem rán trong ảnh không?",
+    "answer": "Có nem rán.",
+    "question_en": "Are there fried spring rolls in the photo?",
+    "answer_en": "There are fried spring rolls."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000035.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Lá màu xanh gói thịt trong bát là gì?",
+    "answer": "Đó là lá lốt.",
+    "question_en": "What is the green leaf wrapped in meat in a bowl?",
+    "answer_en": "That's lolot leaf."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000011.jpg",
+    "label": "mì Quảng",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Đây là món Mì Quảng Gà.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "This is Quang Chicken Noodles."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000011.jpg",
+    "label": "mì Quảng",
+    "type": "color",
+    "question": "Trứng cút trong bát mì có màu gì?",
+    "answer": "Trứng cút có màu vàng tươi.",
+    "question_en": "What color are quail eggs in a bowl of noodles?",
+    "answer_en": "Quail eggs are bright yellow."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000011.jpg",
+    "label": "mì Quảng",
+    "type": "counting",
+    "question": "Có bao nhiêu quả trứng cút trong bát mì?",
+    "answer": "Có 5 quả trứng cút.",
+    "question_en": "How many quail eggs are in a bowl of noodles?",
+    "answer_en": "There are 5 quail eggs."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000011.jpg",
+    "label": "mì Quảng",
+    "type": "yes_no",
+    "question": "Trong ảnh có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served in the photo?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\mì_Quảng\\000011.jpg",
+    "label": "mì Quảng",
+    "type": "ingredient",
+    "question": "Nguyên liệu rắc trên bát mì là gì?",
+    "answer": "Đó là đậu phộng rang.",
+    "question_en": "What are the ingredients sprinkled on a bowl of noodles?",
+    "answer_en": "It's roasted peanuts."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000004.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món bánh cuốn.",
+    "question_en": "What is this?",
+    "answer_en": "This is banh cuon."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000004.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Rau mầm trong ảnh có màu gì?",
+    "answer": "Rau mầm có màu trắng.",
+    "question_en": "What color are the sprouts in the photo?",
+    "answer_en": "Sprouts are white."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000004.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cái đĩa trong ảnh?",
+    "answer": "Có một cái đĩa.",
+    "question_en": "How many plates are there in the picture?",
+    "answer_en": "There is a plate."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000004.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có rau sống không?",
+    "answer": "Có.",
+    "question_en": "Does the dish contain raw vegetables?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000004.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Một nguyên liệu trang trí trên món ăn là gì?",
+    "answer": "Đó là hành phi.",
+    "question_en": "What is a decorative ingredient on a dish?",
+    "answer_en": "That is non-action."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000030.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Cơm gà gỏi.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "Chicken salad with rice."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000030.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong đĩa có màu gì?",
+    "answer": "Màu vàng nhạt.",
+    "question_en": "What color is the rice on the plate?",
+    "answer_en": "Light yellow color."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000030.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu chén nhỏ trong ảnh?",
+    "answer": "Hai chén.",
+    "question_en": "How many small cups are there in the picture?",
+    "answer_en": "Two cups."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000030.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Trong ảnh có nước chấm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce in the picture?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000030.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Một nguyên liệu rau củ trong món gỏi là gì?",
+    "answer": "Hành tây.",
+    "question_en": "What is a vegetable ingredient in a salad?",
+    "answer_en": "Onion."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000037.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món gỏi cuốn.",
+    "question_en": "What is this?",
+    "answer_en": "This is spring rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000037.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Tôm trong cuốn gỏi có màu gì?",
+    "answer": "Tôm có màu hồng cam.",
+    "question_en": "What color is the shrimp in the salad?",
+    "answer_en": "Shrimp is orange-pink in color."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000037.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có ba cuốn gỏi.",
+    "question_en": "How many spring rolls are on the plate?",
+    "answer_en": "There are three salad rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000037.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Món ăn có kèm nước chấm không?",
+    "answer": "Có kèm nước chấm.",
+    "question_en": "Does the dish come with dipping sauce?",
+    "answer_en": "Comes with dipping sauce."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000037.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Nước chấm có nguyên liệu gì là hạt?",
+    "answer": "Nước chấm có đậu phộng.",
+    "question_en": "What ingredients does the dipping sauce contain?",
+    "answer_en": "The dipping sauce contains peanuts."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000018.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Phở bò.",
+    "question_en": "What is this?",
+    "answer_en": "Beef pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000018.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Nước chấm ở chén dưới cùng có màu gì?",
+    "answer": "Màu đỏ tươi.",
+    "question_en": "What color is the sauce in the bottom bowl?",
+    "answer_en": "Bright red."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000018.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu viên bò viên trong tô phở?",
+    "answer": "Có bốn viên.",
+    "question_en": "How many beef balls are in a bowl of pho?",
+    "answer_en": "There are four pills."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000018.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000018.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Nguyên liệu thái lát màu trắng trong tô là gì?",
+    "answer": "Hành tây.",
+    "question_en": "What are the white sliced ​​ingredients in the bowl?",
+    "answer_en": "Onion."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000013.jpg",
+    "label": "bánh cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món bún chả.",
+    "question_en": "What is this?",
+    "answer_en": "Bun Cha dish."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000013.jpg",
+    "label": "bánh cuốn",
+    "type": "color",
+    "question": "Hành phi trên đĩa có màu gì?",
+    "answer": "Màu vàng nâu.",
+    "question_en": "What color is the fried onions on the plate?",
+    "answer_en": "Yellow brown color."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000013.jpg",
+    "label": "bánh cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng quất trong rổ?",
+    "answer": "Ba miếng.",
+    "question_en": "How many pieces of kumquat are in the basket?",
+    "answer_en": "Three pieces."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000013.jpg",
+    "label": "bánh cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm trong bát không?",
+    "answer": "Có.",
+    "question_en": "Is there dipping sauce in the bowl?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_cuốn\\000013.jpg",
+    "label": "bánh cuốn",
+    "type": "ingredient",
+    "question": "Nguyên liệu rắc trên bánh cuốn là gì?",
+    "answer": "Hành phi.",
+    "question_en": "What are the ingredients sprinkled on the rolls?",
+    "answer_en": "Phi Phi."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000025.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Đây là món gỏi cuốn.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "This is spring rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000025.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Quả cà chua trong ảnh có màu gì?",
+    "answer": "Quả cà chua có màu đỏ.",
+    "question_en": "What color is the tomato in the photo?",
+    "answer_en": "Tomatoes are red."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000025.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên thớt?",
+    "answer": "Có 3 cuốn gỏi trên thớt.",
+    "question_en": "How many salad rolls are there on the cutting board?",
+    "answer_en": "There are 3 salad rolls on the cutting board."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000025.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có nước chấm đi kèm.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "There is dipping sauce included."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000025.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Củ màu tím trên thớt là gì?",
+    "answer": "Đó là củ hành tây đỏ.",
+    "question_en": "What is the purple root on the cutting board?",
+    "answer_en": "It's a red onion."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000037.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh tên là gì?",
+    "answer": "Đây là món Bún Chả.",
+    "question_en": "What is the name of the main dish in the photo?",
+    "answer_en": "This is Bun Cha dish."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000037.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Ớt thái lát trong đĩa nhỏ có màu gì?",
+    "answer": "Ớt có màu đỏ.",
+    "question_en": "What color are the sliced ​​chili peppers in the small dish?",
+    "answer_en": "Chili peppers are red."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000037.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chả viên trong bát nước chấm?",
+    "answer": "Có mười miếng chả viên.",
+    "question_en": "How many patties are in the bowl of dipping sauce?",
+    "answer_en": "There are ten patties."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000037.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Trong ảnh có rau sống ăn kèm không?",
+    "answer": "Có, có rau sống.",
+    "question_en": "Are there any raw vegetables served in the photo?",
+    "answer_en": "Yes, there are raw vegetables."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000037.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Món ăn kèm màu trắng ở đĩa bên phải là gì?",
+    "answer": "Đó là bún tươi.",
+    "question_en": "What is the white side dish on the plate on the right?",
+    "answer_en": "It's fresh vermicelli."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000029.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Cháo lòng.",
+    "question_en": "What is this?",
+    "answer_en": "Heart porridge."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000029.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Hành lá rắc trên bát cháo có màu gì?",
+    "answer": "Màu xanh lá cây.",
+    "question_en": "What color is the green onion sprinkled on a bowl of porridge?",
+    "answer_en": "Green."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000029.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu vật đựng món ăn chính trong ảnh?",
+    "answer": "Có hai cái.",
+    "question_en": "How many main dish containers are there in the photo?",
+    "answer_en": "There are two."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000029.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Trên bát cháo có rắc hạt tiêu không?",
+    "answer": "Có.",
+    "question_en": "Is pepper sprinkled on the bowl of porridge?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000029.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Kể tên một loại nguyên liệu trên đĩa.",
+    "answer": "Dồi.",
+    "question_en": "Name an ingredient on the plate.",
+    "answer_en": "Doi."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000034.jpg",
+    "label": "bún riêu",
+    "type": "recognition",
+    "question": "Món ăn trong ảnh tên là gì?",
+    "answer": "Đây là món bún riêu.",
+    "question_en": "What is the name of the dish in the photo?",
+    "answer_en": "This is a vermicelli dish."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000034.jpg",
+    "label": "bún riêu",
+    "type": "color",
+    "question": "Nước dùng trong bát có màu gì?",
+    "answer": "Nước dùng có màu đỏ cam.",
+    "question_en": "What color is the broth in the bowl?",
+    "answer_en": "The broth is orange-red in color."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000034.jpg",
+    "label": "bún riêu",
+    "type": "counting",
+    "question": "Trong bát có bao nhiêu quả trứng vịt lộn?",
+    "answer": "Có một quả trứng vịt lộn.",
+    "question_en": "How many duck eggs are in the bowl?",
+    "answer_en": "There is a balut."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000034.jpg",
+    "label": "bún riêu",
+    "type": "yes_no",
+    "question": "Trong bát có hành lá không?",
+    "answer": "Có.",
+    "question_en": "Are there green onions in the bowl?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_riêu\\000034.jpg",
+    "label": "bún riêu",
+    "type": "ingredient",
+    "question": "Thanh dài màu trắng trong bát là nguyên liệu gì?",
+    "answer": "Đó là chả lụa.",
+    "question_en": "What ingredient is the long white bar in the bowl?",
+    "answer_en": "That's pork roll."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000007.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món Bánh Xèo.",
+    "question_en": "What is this?",
+    "answer_en": "This is Banh Xeo."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000007.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Bánh xèo trong ảnh có màu gì?",
+    "answer": "Bánh xèo có màu vàng.",
+    "question_en": "What color is the pancake in the photo?",
+    "answer_en": "Banh xeo is yellow."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000007.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu cái bánh xèo trong ảnh?",
+    "answer": "Có bốn cái bánh xèo.",
+    "question_en": "How many pancakes are there in the photo?",
+    "answer_en": "There are four pancakes."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000007.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm không?",
+    "answer": "Có rau sống ăn kèm.",
+    "question_en": "Are there any raw vegetables served with it?",
+    "answer_en": "Served with raw vegetables."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000007.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Loại rau nào nhìn thấy rõ trong ảnh?",
+    "answer": "Rau xà lách.",
+    "question_en": "Which vegetable is clearly visible in the photo?",
+    "answer_en": "Lettuce."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000037.jpg",
+    "label": "cơm gà Hội An",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Món cơm gà luộc và gỏi gà.",
+    "question_en": "What is this?",
+    "answer_en": "Boiled chicken rice and chicken salad."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000037.jpg",
+    "label": "cơm gà Hội An",
+    "type": "color",
+    "question": "Cơm trong ảnh có màu gì?",
+    "answer": "Cơm có màu vàng.",
+    "question_en": "What color is the rice in the photo?",
+    "answer_en": "Rice is yellow."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000037.jpg",
+    "label": "cơm gà Hội An",
+    "type": "counting",
+    "question": "Có bao nhiêu cái chén/tô trong ảnh?",
+    "answer": "Có ba cái chén và tô.",
+    "question_en": "How many cups/bowls are there in the photo?",
+    "answer_en": "There are three cups and bowls."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000037.jpg",
+    "label": "cơm gà Hội An",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cơm_gà_Hội_An\\000037.jpg",
+    "label": "cơm gà Hội An",
+    "type": "ingredient",
+    "question": "Một nguyên liệu chính của món ăn này là gì?",
+    "answer": "Là thịt gà.",
+    "question_en": "What is a main ingredient of this dish?",
+    "answer_en": "It's chicken."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000016.jpg",
+    "label": "bánh xèo",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Bánh xèo.",
+    "question_en": "What is this?",
+    "answer_en": "Pancakes."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000016.jpg",
+    "label": "bánh xèo",
+    "type": "color",
+    "question": "Món bánh trong ảnh có màu gì chủ đạo?",
+    "answer": "Màu vàng và vàng nâu.",
+    "question_en": "What is the main color of the cake in the photo?",
+    "answer_en": "Yellow and yellow brown."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000016.jpg",
+    "label": "bánh xèo",
+    "type": "counting",
+    "question": "Có bao nhiêu cái bánh được xếp trên đĩa trắng?",
+    "answer": "Ba cái bánh.",
+    "question_en": "How many cakes are arranged on a white plate?",
+    "answer_en": "Three cakes."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000016.jpg",
+    "label": "bánh xèo",
+    "type": "yes_no",
+    "question": "Món bánh có được bày trên lá chuối không?",
+    "answer": "Có.",
+    "question_en": "Is the cake served on banana leaves?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bánh_xèo\\000016.jpg",
+    "label": "bánh xèo",
+    "type": "ingredient",
+    "question": "Lá dùng để bày bánh là lá gì?",
+    "answer": "Lá chuối.",
+    "question_en": "What are the leaves used to display the cake?",
+    "answer_en": "Banana leaves."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000034.jpg",
+    "label": "phở bò",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Phở Bò.",
+    "question_en": "What is this?",
+    "answer_en": "Beef Pho."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000034.jpg",
+    "label": "phở bò",
+    "type": "color",
+    "question": "Quả ớt trong ảnh có màu gì?",
+    "answer": "Màu đỏ.",
+    "question_en": "What color is the chili in the photo?",
+    "answer_en": "Red."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000034.jpg",
+    "label": "phở bò",
+    "type": "counting",
+    "question": "Có bao nhiêu chén gia vị nhỏ trên đĩa rau?",
+    "answer": "Hai chén.",
+    "question_en": "How many small cups of seasoning are there on a plate of vegetables?",
+    "answer_en": "Two cups."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000034.jpg",
+    "label": "phở bò",
+    "type": "yes_no",
+    "question": "Có quẩy ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Is there any side dish?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\phở_bò\\000034.jpg",
+    "label": "phở bò",
+    "type": "ingredient",
+    "question": "Loại thịt chính trong bát phở là gì?",
+    "answer": "Thịt bò.",
+    "question_en": "What is the main type of meat in a bowl of pho?",
+    "answer_en": "Beef."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000034.jpg",
+    "label": "bún chả",
+    "type": "recognition",
+    "question": "Đây là món ăn gì?",
+    "answer": "Đây là món Bún chả.",
+    "question_en": "What dish is this?",
+    "answer_en": "This is Bun Cha dish."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000034.jpg",
+    "label": "bún chả",
+    "type": "color",
+    "question": "Rau xà lách có màu gì?",
+    "answer": "Rau xà lách có màu xanh lá cây.",
+    "question_en": "What color is lettuce?",
+    "answer_en": "Lettuce is green."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000034.jpg",
+    "label": "bún chả",
+    "type": "counting",
+    "question": "Có bao nhiêu cọng rau mùi trên bún?",
+    "answer": "Có một cọng rau mùi.",
+    "question_en": "How many coriander stalks are on the vermicelli?",
+    "answer_en": "There is a stalk of coriander."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000034.jpg",
+    "label": "bún chả",
+    "type": "yes_no",
+    "question": "Món ăn có rau sống ăn kèm không?",
+    "answer": "Có.",
+    "question_en": "Does the dish have raw vegetables served with it?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\bún_chả\\000034.jpg",
+    "label": "bún chả",
+    "type": "ingredient",
+    "question": "Miếng màu cam trong bát là nguyên liệu gì?",
+    "answer": "Đó là cà rốt.",
+    "question_en": "What is the orange piece in the bowl?",
+    "answer_en": "That's carrots."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000015.jpg",
+    "label": "gỏi cuốn",
+    "type": "recognition",
+    "question": "Đây là món gì?",
+    "answer": "Đây là món gỏi cuốn.",
+    "question_en": "What is this?",
+    "answer_en": "This is spring rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000015.jpg",
+    "label": "gỏi cuốn",
+    "type": "color",
+    "question": "Con tôm trong cuốn gỏi có màu gì?",
+    "answer": "Tôm có màu cam và trắng.",
+    "question_en": "What color is the shrimp in the salad?",
+    "answer_en": "Shrimp are orange and white."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000015.jpg",
+    "label": "gỏi cuốn",
+    "type": "counting",
+    "question": "Có bao nhiêu cuốn gỏi trên đĩa?",
+    "answer": "Có 4 cuốn gỏi.",
+    "question_en": "How many spring rolls are on the plate?",
+    "answer_en": "There are 4 salad rolls."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000015.jpg",
+    "label": "gỏi cuốn",
+    "type": "yes_no",
+    "question": "Có nước chấm đi kèm không?",
+    "answer": "Có nước chấm.",
+    "question_en": "Is there any dipping sauce included?",
+    "answer_en": "There is dipping sauce."
+  },
+  {
+    "image_path": "data/images\\gỏi_cuốn\\000015.jpg",
+    "label": "gỏi cuốn",
+    "type": "ingredient",
+    "question": "Kể tên một nguyên liệu nhìn thấy trong gỏi cuốn.",
+    "answer": "Tôm.",
+    "question_en": "Name an ingredient found in spring rolls.",
+    "answer_en": "Shrimp."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000004.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Đây là quầy bán món gì?",
+    "answer": "Đây là quầy bán lòng dồi và quẩy.",
+    "question_en": "What is this stall selling?",
+    "answer_en": "This is a stall selling sausage and fried sausage."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000004.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Chiếc rổ đựng dồi có màu gì?",
+    "answer": "Chiếc rổ đựng dồi có màu đỏ.",
+    "question_en": "What color is the sausage basket?",
+    "answer_en": "The basket containing sausage is red."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000004.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu tầng kệ trưng bày đồ ăn?",
+    "answer": "Có ba tầng kệ trưng bày đồ ăn.",
+    "question_en": "How many floors of food display shelves are there?",
+    "answer_en": "There are three levels of food display shelves."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000004.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau sống trong ảnh không?",
+    "answer": "Có, có rau sống.",
+    "question_en": "Are there raw vegetables in the photo?",
+    "answer_en": "Yes, there are raw vegetables."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000004.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Nguyên liệu chiên giòn trên kệ trên cùng tên là gì?",
+    "answer": "Đó là quẩy.",
+    "question_en": "What is the name of the deep fried ingredients on the top shelf?",
+    "answer_en": "That's rocking."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000020.jpg",
+    "label": "cháo lòng",
+    "type": "recognition",
+    "question": "Món ăn chính trong ảnh là gì?",
+    "answer": "Lòng dồi tổng hợp.",
+    "question_en": "What is the main dish in the photo?",
+    "answer_en": "Synthetic sausage."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000020.jpg",
+    "label": "cháo lòng",
+    "type": "color",
+    "question": "Ớt băm trong bát nhỏ có màu gì?",
+    "answer": "Màu đỏ tươi.",
+    "question_en": "What color is the minced chili in a small bowl?",
+    "answer_en": "Bright red."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000020.jpg",
+    "label": "cháo lòng",
+    "type": "counting",
+    "question": "Có bao nhiêu miếng chanh đã cắt trên đĩa?",
+    "answer": "Có năm miếng chanh.",
+    "question_en": "How many sliced ​​lemons are on the plate?",
+    "answer_en": "There are five pieces of lemon."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000020.jpg",
+    "label": "cháo lòng",
+    "type": "yes_no",
+    "question": "Có rau sống ăn kèm trong ảnh không?",
+    "answer": "Có.",
+    "question_en": "Are there any raw vegetables served in the photo?",
+    "answer_en": "Have."
+  },
+  {
+    "image_path": "data/images\\cháo_lòng\\000020.jpg",
+    "label": "cháo lòng",
+    "type": "ingredient",
+    "question": "Món chiên giòn trong rổ tên là gì?",
+    "answer": "Là quẩy.",
+    "question_en": "What is the name of the deep fried dish in the basket?",
+    "answer_en": "It's quack."
+  }
+]

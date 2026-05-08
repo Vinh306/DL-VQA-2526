@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "model_name": "lstm",
+    "total_samples": 20,
+    "valid_samples": 19,
+    "errors": 1,
+    "avg_score": 5.8158,
+    "median_score": 7.5,
+    "min_score": 0.0,
+    "max_score": 10.0,
+    "score_bands": {
+      "perfect_10": 2,
+      "good_7_9": 9,
+      "partial_4_6": 3,
+      "poor_1_3": 3,
+      "wrong_0": 2
+    }
+  },
+  "details": [
+    {
+      "question": "Đây là món gì?",
+      "ground_truth": "Đây là món Bánh Xèo.",
+      "model_name": "lstm",
+      "prediction": "Đây là món Mì Quảng .",
+      "score": 4.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Vỏ bánh xèo trong chảo có màu gì?",
+      "ground_truth": "Vỏ bánh xèo có màu vàng.",
+      "model_name": "lstm",
+      "prediction": "Màu vàng .",
+      "score": 9.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có mấy chiếc kẹp trong ảnh?",
+      "ground_truth": "Có một chiếc kẹp.",
+      "model_name": "lstm",
+      "prediction": "Có hai miếng bánh xèo .",
+      "score": 0.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Trong bánh xèo có tôm không?",
+      "ground_truth": "Có tôm.",
+      "model_name": "lstm",
+      "prediction": "Có .",
+      "score": 7.5,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Nguyên liệu màu trắng nhiều nhất ở giữa là gì?",
+      "ground_truth": "Đó là giá đỗ.",
+      "model_name": "lstm",
+      "prediction": "Đó là giá đỗ .",
+      "score": 10.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Đây là món gì?",
+      "ground_truth": "Cháo lòng và quẩy.",
+      "model_name": "lstm",
+      "prediction": "Đây là món .",
+      "score": 1.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Quẩy trong đĩa có màu gì?",
+      "ground_truth": "Màu vàng nâu.",
+      "model_name": "lstm",
+      "prediction": "Màu vàng nâu .",
+      "score": 10.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có bao nhiêu miếng ớt đỏ trên bát cháo?",
+      "ground_truth": "Một miếng ớt đỏ.",
+      "model_name": "lstm",
+      "prediction": "Có hai lát .",
+      "score": 4.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có rau thơm trang trí trên cháo không?",
+      "ground_truth": "Có.",
+      "model_name": "lstm",
+      "prediction": "Có .",
+      "score": 9.5,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Miếng thịt màu nâu trong bát cháo là gì?",
+      "ground_truth": "Thịt bò.",
+      "model_name": "lstm",
+      "prediction": "Thịt .",
+      "score": 7.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Món ăn chính trong ảnh là món gì?",
+      "ground_truth": "Món bún riêu.",
+      "model_name": "lstm",
+      "prediction": "Cháo lòng .",
+      "score": 0.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Đậu phụ trong bát có màu gì?",
+      "ground_truth": "Màu vàng.",
+      "model_name": "lstm",
+      "prediction": "Màu vàng nâu .",
+      "score": 8.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có bao nhiêu miếng quẩy trên đĩa?",
+      "ground_truth": "Có 5 miếng quẩy.",
+      "model_name": "lstm",
+      "prediction": "Có hai miếng .",
+      "score": 4.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có rau sống ăn kèm không?",
+      "ground_truth": "Có.",
+      "model_name": "lstm",
+      "prediction": "Có .",
+      "score": 9.5,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Nguyên liệu màu vàng dài trên đĩa tên là gì?",
+      "ground_truth": "Quẩy.",
+      "model_name": "lstm",
+      "prediction": "Là bún .",
+      "score": 1.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Đây là món gì?",
+      "ground_truth": "Đây là món cơm gà.",
+      "model_name": "lstm",
+      "prediction": "Cơm gà xé .",
+      "score": 8.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Cơm trong đĩa có màu gì?",
+      "ground_truth": "Cơm có màu vàng.",
+      "model_name": "lstm",
+      "prediction": "Màu vàng .",
+      "score": 9.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có mấy quả trứng lòng đào trên đĩa?",
+      "ground_truth": "Có bốn quả trứng lòng đào.",
+      "model_name": "lstm",
+      "prediction": "Có 3 quả trứng cút .",
+      "score": 1.0,
+      "explanation": "",
+      "error": null
+    },
+    {
+      "question": "Có nước chấm đi kèm không?",
+      "ground_truth": "Có nước chấm.",
+      "model_name": "lstm",
+      "prediction": "Có .",
+      "score": null,
+      "explanation": null,
+      "error": "finish_reason=MAX_TOKENS, response bị cắt hoặc bị block"
+    },
+    {
+      "question": "Thịt xé sợi trên đĩa là thịt gì?",
+      "ground_truth": "Là thịt gà xé.",
+      "model_name": "lstm",
+      "prediction": "Thịt gà .",
+      "score": 8.0,
+      "explanation": "",
+      "error": null
+    }
+  ]
+}

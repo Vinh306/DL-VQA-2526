@@ -1,0 +1,3 @@
+checkpoints/
+judge_results_*.csv
+judge_results_*.json
